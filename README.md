@@ -1,2 +1,2 @@
 # LibsHungergames-Issues
-Issue tracker for LibsHungergames
+Issue tracker for LibsHungergames and McPVP
